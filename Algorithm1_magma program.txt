@@ -1,3 +1,6 @@
+This file provides MAGMA code for this paper
+[Huan Sun, Qin Yue, Xue Jia, and Chengju Li, Decoding algorithms of  twisted GRS codes and twisted Goppa codes]
+A. The MAGMA code  in the Algorithm 1:
 
 function euclidean(t, g, S)
 i:=2;

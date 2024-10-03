@@ -1,2 +1,2 @@
 # Algorithms
-Magma produces of algorithms of TGRS MDS codes and TGoppa codes
+Magma program of algorithms of TGRS MDS codes and TGoppa codes
